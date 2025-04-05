@@ -6,10 +6,10 @@ This is a simple click counter application built using HTML, CSS, and JavaScript
 
 ```
 click-counter
-│   ├── index.html   # Main HTML document
-│   ├── style.css    # Styles for the application
-│   └── app.js       # JavaScript functionality for the click counter      
-│   └── README.md    # Project documentation
+ ├── index.html   # Main HTML document
+ ├── style.css    # Styles for the application
+ ├── app.js       # JavaScript functionality for the click counter      
+ ├── README.md    # Project documentation
 ```
 
 ## Features
