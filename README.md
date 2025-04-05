@@ -6,11 +6,10 @@ This is a simple click counter application built using HTML, CSS, and JavaScript
 
 ```
 click-counter
-├── src
-│   ├── index.html       # Main HTML document
+│   ├── index.html   # Main HTML document
 │   ├── style.css    # Styles for the application
 │   └── app.js       # JavaScript functionality for the click counter      
-└── README.md            # Project documentation
+│   └── README.md    # Project documentation
 ```
 
 ## Features
@@ -23,7 +22,7 @@ click-counter
 To run the application, follow these steps:
 
 1. Clone the repository or download the project files.
-2. Open the `src/index.html` file in a web browser.
+2. Open the `index.html` file in a web browser.
 3. Click the button to increment the counter and see the count update in real-time.
 
 ## Technologies Used
